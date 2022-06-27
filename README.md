@@ -4,7 +4,7 @@
 <p align="center"><img width ="45%" src="https://github.com/gdsc-gvp/.github/blob/main/profile/assets/gdsc.png"></p> 
 
 
-## Contributors List 💖
+## Contributors List 💖:thumbsup:
 
 | Name |
 |------|
